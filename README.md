@@ -28,5 +28,7 @@ Run your services using simple bash script.
 
 I recommend using `docker compose` or other tools that can restart after reboot and deploy multiple services using just one file
 
-## Storing secrets
+## tips&tricks
+- store configrations in github repo
+- store secrets in .env file, and before push encrypt it with gpg
 
