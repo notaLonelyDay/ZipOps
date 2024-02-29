@@ -6,8 +6,6 @@ Deploy your services with ease as zipping files
 3. Unzip
 4. Run
 
-{:toc}
-
 Stop wasting your time on learning complex deploy systems like GitOps and K8s.
 
 Deploy must be easy.
